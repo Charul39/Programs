@@ -1,0 +1,40 @@
+LEET
+1. Ways to add parenthesis
+2. Median of two sorted arrays
+
+*1. Subarray product less than k
+2. Convex Hull
+*3. Knight Walk
+*4. Stock Buy And Sell
+*5. Kadane's Algorithm
+*6. Minimum Number of Jumps
+7. Minimize the maximum difference between the heights
+*8. Minimum Operations
+9. Geek Collects Balls
+*10. Combination Sum
+*11. Edit Distance
+*12. Egg Dropping Problem
+13. Reverse a Linked List in groups of given size
+*14. Remove Loop Linked List
+*15. Coin Change
+*16. Subset Sum
+17. Number Formation
+18. Cutting Segments
+*19. Merge K Sorted Arrays
+20. Minimum platforms
+*21. Kth Smallest element
+22. Alien Dictionary
+*23. Eulerian Cycle
+*24. Largest Subarray with sum k
+*25. Segment Tree
+26. Binary to DLL
+*27. Partition Problem
+
+
+28. Submatrix with at most k zeroes
+29. Given two strings. You can replace any substring of 'a' with that of 'b' having same starting and ending indices.
+    Count no of unique strings.
+30. Fill Rectangle with bricks. Count no of broken bricks
+https://www.hackerrank.com/contests/morgan-stanley-2015/challenges/stock-values/problem
+31. Boolean Parenthesization
+32. Maximum of all sub arrays of size k
